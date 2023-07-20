@@ -2,7 +2,10 @@
 Kafka Stream Stomp over Websocket
 
 
+##  Kafka Streams  vs  kafka-consumer
 
+- https://www.baeldung.com/java-kafka-streams-vs-kafka-consumer
+  
 ##  Apache Kafka Streams for building Real Time Data Processing with STOMP over WebSocket using Spring Boot and Angular 8
 
 - https://roytuts.com/apache-kafka-streams-for-building-real-time-data-processing-with-stomp-over-websocket-using-spring-and-angular/
